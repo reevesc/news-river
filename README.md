@@ -1,2 +1,2 @@
 # news-river
-A simple PHP implementation of the NewsRiver Stream API
+A simple implementation of the NewsRiver Stream API in PHP
