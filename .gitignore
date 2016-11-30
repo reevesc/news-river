@@ -4,3 +4,6 @@
 
 # OS Specific
 .directory
+
+#Ignore all config.php files
+config.php
